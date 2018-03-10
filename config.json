@@ -1,0 +1,6 @@
+{
+  "GCLOUD_PROJECT": "togg-api",
+  "DATA_BACKEND": "mongodb",
+  "MONGO_URL": "mongodb://regYingzhe:togg4ever@ds251598.mlab.com:51598/togg_book",
+  "MONGO_COLLECTION": "books"
+}
